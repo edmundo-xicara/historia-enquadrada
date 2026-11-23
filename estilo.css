@@ -1,0 +1,5 @@
+:root{--fundo:#0B0B0B;--texto:#ECE6DA;--ouro:#C8A456}
+body{margin:0;background:var(--fundo);color:var(--texto);font:17px/1.6 Georgia,serif}
+main{max-width:680px;margin:0 auto;padding:48px 16px}
+h1{font-weight:normal;color:var(--ouro)}h2{font-weight:normal;margin-top:2em}
+a{color:var(--ouro)}small{opacity:.7}
