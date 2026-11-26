@@ -3,3 +3,4 @@ body{margin:0;background:var(--fundo);color:var(--texto);font:17px/1.6 Georgia,s
 main{max-width:680px;margin:0 auto;padding:48px 16px}
 h1{font-weight:normal;color:var(--ouro)}h2{font-weight:normal;margin-top:2em}
 a{color:var(--ouro)}small{opacity:.7}
+h1{font-size:2.6rem;line-height:1.1;margin:0 0 .3em}h2{font-size:1.6rem;line-height:1.2}
